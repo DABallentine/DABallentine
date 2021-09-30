@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/DABallentine/DABallentine/header.png "Header")]
+[![Header](https://raw.githubusercontent.com/DABallentine/DABallentine/blob/main/header.png "Header")]
 ### Hi there 👋
 
 <!--

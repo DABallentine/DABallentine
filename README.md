@@ -1,6 +1,11 @@
 [![Header](https://raw.githubusercontent.com/DABallentine/<OWNER>/<OWNER>/header.png "Header")]
-### Hi there 👋
+### Hey there, folks 👋
 
+- 🔭 My name is Dustin Ballentine, and I am currently transitioning from a career as a US Army Engineer Officer into the world of Data Science. I focus mostly on implementation of machine learning algorithms for knowledge discovery in python and R, though I am literate in SQL and have some basic skills in JavaScript, HTML, & CSS. 
+
+- 🌱 I’m currently focusing on my skills in identifying, articulating, and defining knowledge discovery problems in actionable terms, and applying project management skills to effectively guide, coordinate, and monitor team efforts to generate insights and value from data.
+
+- 📫 You can find me on LinkedIn @DABallentine
 <!--
 **DABallentine/DABallentine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

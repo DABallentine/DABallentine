@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/DABallentine/<OWNER>/<OWNER>/header.png "Header")]
+![Header](https://github.com/DABallentine/DABallentine/blob/main/header.PNG "Header")
 ### Hey there, folks 👋
 
 - 🔭 My name is Dustin Ballentine, and I am currently transitioning from a career as a US Army Engineer Officer into the world of Data Science. I focus mostly on implementation of machine learning algorithms for knowledge discovery in python and R, though I am literate in SQL and have some basic skills in JavaScript, HTML, & CSS. 

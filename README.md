@@ -9,6 +9,10 @@
 
 _____________________________________________________________________________________________________________________________________________________________________________
 &emsp;&nbsp; I am very thankful for the many members of the GitHub and other communities who freely share their knowledge, skills, and insights. I hope one day soon to have learned enough that my contributions here are also of value to someone. Until then...thank you all, and here's to a lifelong commitment to learning 🥂.
+_____________________________________________________________________________________________________________________________________________________________________________
+
+&emsp;&emsp;&emsp;&emsp;![GitHub stats](https://github-readme-stats.vercel.app/api?username=DABallentine&show_icons=true&theme=default)
+&emsp;&emsp;&emsp;&emsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DABallentine&theme=default)
 
 <!--
 **DABallentine/DABallentine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

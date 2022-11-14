@@ -3,7 +3,7 @@
 
 🔭 My name is Dustin Ballentine, and I am currently transitioning from a career as a US Army Engineer Officer into the world of Data Science. I focus mostly on implementation of machine learning algorithms using python and SQL for knowledge discovery and business value generation. 
 
-🌱 I’m currently focusing on my skills in defining and framing ML problems and solutions, coding said solutions in python, deploying models into production through CI/CD pipelines in Kubeflow on Google Cloud Platform, and applying MLOps to build AI platform pipelines in Google Vertex AI.
+🌱 I’m currently focusing on my skills in defining and framing ML problems and solutions, coding said solutions in python, deploying models into production through CI/CD pipelines on Google Cloud Platform, and applying MLOps to build kubeflow pipelines in Google Vertex AI.
 
 📫 You can find me on LinkedIn @DABallentine.
 

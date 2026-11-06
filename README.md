@@ -1,30 +1,21 @@
-![Header](https://github.com/DABallentine/DABallentine/blob/main/header.PNG "Header")
-### Hey there, folks 👋
+<img src="header.png" alt="Dustin Ballentine · Senior Data Scientist · Production ML · Forecasting & Optimization" width="100%">
+I build machine learning and optimization systems and keep them running in production, where the output drives real operational decisions.
+ 
+For four years at Torqata / American Tire Distributors I owned problems end to end, from problem framing through deployment and monitoring, on GCP Vertex AI and Palantir Foundry:
+ 
+- **Inventory rebalancing optimizer** in daily production since Dec 2024: wrote the multi-objective production formulation, owned the production code and test suite; Dockerized solver → GitHub Actions → Foundry.
+- **Stockout / missed-sales imputation** for ~60,000 of 1.8M demand series, each with its own model selected by adaptive cross-validation, stabilized with hysteresis; 80–85% of series beat the moving average they replaced.
+- **Platform and MLOps** for the team's ~15 Vertex AI pipelines: CI/CD, dependency-update standard, containers, alerting.
+- **~15 Oracle PL/SQL packages → PySpark** in Foundry in three weeks against an eight-week estimate, using agent skills I built on the Palantir MCP.
 
-🔭 My name is Dustin Ballentine, and I have recently transitioned from a career as a US Army Engineer Officer into the world of Data Science. I focus mostly on implementation of machine learning algorithms and statistical methods using python and SQL for knowledge discovery and business value generation. 
+Before data science: eight years as a US Army engineer officer, including command of a 124-person airborne engineer company.
 
-🌱 I’m currently focusing on my skills in defining and framing ML problems and solutions, coding said solutions in python, deploying models into production on Google Cloud Platform's Vertex AI using kubeflow pipelines and GH Actions for CI/CD, and developing integrated MLOps procedures and standards that cover ML solutions from development all the way through monitoring and maintenance in production.
+------
 
-📫 You can find me on LinkedIn @DABallentine.
-
-_____________________________________________________________________________________________________________________________________________________________________________
-&emsp;&nbsp; Many thanks to the many members of the GitHub and other communities who freely share their knowledge, skills, and insights. I hope one day soon to have learned enough that my contributions here are also of value to someone. Until then...thank you all for collaboratively sharing what you know, and here's to a lifelong commitment to learning 🥂.
-_____________________________________________________________________________________________________________________________________________________________________________
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DABallentine&show_icons=true&theme=default&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DABallentine&theme=default&count_private=true)
-
-<!--
-**DABallentine/DABallentine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools I use regularly:** Python (Polars, PySpark, pandas, scikit-learn, statsforecast) · SQL · PuLP / Hexaly · GCP (Vertex AI, BigQuery, Dataproc) · Palantir Foundry · Docker · GitHub Actions · Terraform · AI-assisted development (Claude Code, agent skills, MCP)
+ 
+Based near Bremen, Germany. English native, German fluent. Open to senior and lead data science roles in northern Germany or remote.
+ 
+📫 [LinkedIn](https://www.linkedin.com/in/DABallentine) · dustin.ballentine@gmail.com
+ 
+<!-- Add once public: a "Featured" line linking dab-utils (personal DS toolkit), and later the Foundry deployment pipeline demo. -->

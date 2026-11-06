@@ -20,7 +20,7 @@ Before data science: eight years as a US Army engineer officer, including comman
 Based near Bremen, Germany. English native, German fluent. Open to senior and lead data science roles in northern Germany or remote.
 
 ## Why I do it
-I dislike waste. Most businesses already have the data and the tech stack to understand their customers, their market and, too often overlooked, themselves. Yet decisions still run on manual processes and late or partial information, and revenue and effort leak away. I like closing that gap: getting the answer out of the data and in front of the right people, on time and on a schedule they can rely on.
+I dislike waste. The most expensive kind I see in data science is the model that goes “to prod” once, from a notebook nobody can rebuild, and is never monitored or improved again. I build the other kind: systems that live in version control, deploy through CI/CD, scale with the load, and alert on themselves before the business notices. Systems the next person can audit, maintain and trust.
 
 📫 [LinkedIn](https://www.linkedin.com/in/DABallentine) · dustin.ballentine@gmail.com
  

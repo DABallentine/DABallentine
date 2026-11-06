@@ -1,4 +1,4 @@
-<img src="header.png" alt="Dustin Ballentine · Senior Data Scientist · Production ML · Forecasting & Optimization" width="100%">
+<img src="header.PNG" alt="Dustin Ballentine · Senior Data Scientist · Production ML · Forecasting & Optimization" width="100%">
 I build machine learning and optimization systems and keep them running in production, where the output drives real operational decisions.
  
 For four years at Torqata / American Tire Distributors I owned problems end to end, from problem framing through deployment and monitoring, on GCP Vertex AI and Palantir Foundry:
